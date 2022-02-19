@@ -1,0 +1,11 @@
+<mvc:View controllerName="layout.controller.view1"
+          xmlns:mvc="sap.ui.core.mvc"
+          xmlns="sap.m">
+          <Page id="idPage1" title="Layout-Fullscreen – one group" >
+            <headerContent>
+                <Button id="idBtn6" text="Edit"   press="onEdit"/>
+                <Button id="idBtn7" text="Save"   press="onSave"/>
+                <Button id="idBtn8" text="Cancel" press="onCancel"/>
+            </headerContent>
+          </Page>
+</mvc:View>          
