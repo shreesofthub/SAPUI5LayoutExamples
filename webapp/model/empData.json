@@ -1,0 +1,17 @@
+{
+    "employee": [
+        {
+            "fName": "Bollabathula",
+            "lName": "Sridhar",
+            "sName": "Raod No-2",
+            "hNumber": "29/A,302",
+            "zCode": "500097",
+            "city": "Hyderabad",
+            "country": "India",
+            "pNo": "1234567890",
+            "sNo": "0987654321"
+        }
+    ],
+    "editT": true,
+    "editF": false
+}

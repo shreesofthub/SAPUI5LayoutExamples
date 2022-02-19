@@ -11,8 +11,8 @@
     "description": "{{appDescription}}",
     "dataSources": {
       "mainService": {
-        "uri": "/sap/opu/odata/",
-        "type": "OData",
+        "uri": "/model/empData.json",
+        "type": "JSON",
         "settings": {
           "annotations": [],
           "localUri": "localService/metadata.xml",
